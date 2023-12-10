@@ -4,77 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d27707f1-a746-4665-8160-99fa55123ec1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadNumberFromText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/AboveFreezingElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/BloodDonor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/CanYouTakeAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/CanYouTakeComputerMaintenence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/CompareStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/DepartmentCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/MilesToMCTC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Prices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week1/Welding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ArrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/AverageTestScoresSimpleLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/BusFareTotalArrayDayNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/BusFares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ClassNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/ContinueExampleAddingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/HelloForLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/January.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/LoopGetDataForArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/OilChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/SalesTaxWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/Stars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/SumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/WhileLoopBreakExampleRandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week2/WhileLoopPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/CorporateSponsors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/HelloMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Lemonade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/MPG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/MakeArrayUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Marathon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/MilesToKM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Squares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week3/Tires.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/CollectionsExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/GuestList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ListOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ListsAndLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ListsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/ListsUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/Removing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week4/Speeds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/ClassCodesMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/MinnesotaRoadTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week5/snow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/CodeStyleCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/HelloReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/HelloWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/ReadNumberFromText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/StringToIntTryAndCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/ThrowsFromMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/WriteArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/WriteArrayMonths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/WritingAndReadingName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/WritingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week6/WritingVariables.java" afterDir="false" />
+    <list default="true" id="d27707f1-a746-4665-8160-99fa55123ec1" name="Changes" comment="Lecture Code so far">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/HelloDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/movies/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/movies/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/movies/MovieList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/ITECCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/ITECCourseManager_NoObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/SwimmingPoolProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/TireComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/dates/ClassList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/dates/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/DiceCup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/currency_converter/CurrencyConverter.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/currency_converter/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/currency_converter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/hello_gui_app/HelloGui.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/hello_gui_app/HelloGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/hello_gui_app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/movie_gui/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/movie_gui/MovieGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/movie_gui/MovieGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,44 +52,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2WlbX7v5KB6ZAnY2081lkqIaJLK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/johna/IdeaProjects/ResetForPOM1014",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/johna/IdeaProjects/ResetForPOM1014/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;false&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;409&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/johna/IdeaProjects/ResetForPOM1014/movie_watchlist.sqlite&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/johna/IdeaProjects/ResetForPOM1014/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\johna\IdeaProjects\ResetForPOM1014" />
       <recent name="C:\Users\johna\IdeaProjects\ResetForPOM1014\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CodeStyleCheck">
-    <configuration name="CodeStyleCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week6.CodeStyleCheck" />
+  <component name="RunManager" selected="Application.MovieList">
+    <configuration name="HelloDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week10.HelloDB" />
       <module name="ResetForPOM1014" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week6.*" />
+          <option name="PATTERN" value="org.example.week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week6.HelloReading" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week8.hello_gui_app.Main" />
       <module name="ResetForPOM1014" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week6.*" />
+          <option name="PATTERN" value="org.example.week8.hello_gui_app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week6.WriteArrayList" />
+    <configuration name="MovieList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week10.movies.MovieList" />
       <module name="ResetForPOM1014" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week6.*" />
+          <option name="PATTERN" value="org.example.week10.movies.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WritingAndReadingName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week6.WritingAndReadingName" />
+    <configuration name="org.example.week8.currency_converter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week8.currency_converter.Main" />
       <module name="ResetForPOM1014" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week6.*" />
+          <option name="PATTERN" value="org.example.week8.currency_converter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WritingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.week6.WritingNumbers" />
+    <configuration name="org.example.week8.movie_gui.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.week8.movie_gui.Main" />
       <module name="ResetForPOM1014" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.week6.*" />
+          <option name="PATTERN" value="org.example.week8.movie_gui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CodeStyleCheck" />
-        <item itemvalue="Application.WriteArrayList" />
-        <item itemvalue="Application.WritingAndReadingName" />
-        <item itemvalue="Application.HelloReading" />
-        <item itemvalue="Application.WritingNumbers" />
+        <item itemvalue="Application.MovieList" />
+        <item itemvalue="Application.HelloDB" />
+        <item itemvalue="Application.org.example.week8.movie_gui.Main" />
+        <item itemvalue="Application.org.example.week8.currency_converter.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -206,12 +175,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697310154094</updated>
-      <workItem from="1697310155074" duration="58695000" />
+      <workItem from="1697310155074" duration="62968000" />
+      <workItem from="1699311512063" duration="12203000" />
+      <workItem from="1700267692822" duration="1306000" />
+      <workItem from="1700452884328" duration="68797000" />
+      <workItem from="1702174212771" duration="4348000" />
     </task>
+    <task id="LOCAL-00001" summary="Lecture Code so far">
+      <option name="closed" value="true" />
+      <created>1699296053161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699296053161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lecture Code so far" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture Code so far" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
