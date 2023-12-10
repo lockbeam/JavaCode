@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d27707f1-a746-4665-8160-99fa55123ec1" name="Changes" comment="Lecture Code so far">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/HelloDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/movies/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/movies/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week10/movies/MovieList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/ITECCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/ITECCourseManager_NoObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/Pool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/SwimmingPoolProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/TireComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/dates/ClassList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/dates/Dates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/DiceCup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week7/knockout_game/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/currency_converter/CurrencyConverter.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/currency_converter/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/currency_converter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/hello_gui_app/HelloGui.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/hello_gui_app/HelloGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/hello_gui_app/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/movie_gui/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/movie_gui/MovieGUI.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/week8/movie_gui/MovieGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d27707f1-a746-4665-8160-99fa55123ec1" name="Changes" comment="Lecture Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -61,30 +34,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;false&quot;,
-    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
-    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;409&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/johna/IdeaProjects/ResetForPOM1014/movie_watchlist.sqlite&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/johna/IdeaProjects/ResetForPOM1014/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "409",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Testing",
+    "last_opened_file_path": "C:/Users/johna/IdeaProjects/ResetForPOM1014/movie_watchlist.sqlite",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/johna/IdeaProjects/ResetForPOM1014/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlite&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\johna\IdeaProjects\ResetForPOM1014" />
@@ -179,7 +155,7 @@
       <workItem from="1699311512063" duration="12203000" />
       <workItem from="1700267692822" duration="1306000" />
       <workItem from="1700452884328" duration="68797000" />
-      <workItem from="1702174212771" duration="4348000" />
+      <workItem from="1702174212771" duration="4865000" />
     </task>
     <task id="LOCAL-00001" summary="Lecture Code so far">
       <option name="closed" value="true" />
@@ -189,15 +165,49 @@
       <option name="project" value="LOCAL" />
       <updated>1699296053161</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lecture Code">
+      <option name="closed" value="true" />
+      <created>1702233301270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702233301270</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lecture Code">
+      <option name="closed" value="true" />
+      <created>1702233602549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702233602549</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture Code so far" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture Code so far" />
+    <MESSAGE value="Lecture Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
